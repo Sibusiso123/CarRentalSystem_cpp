@@ -1,0 +1,22 @@
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------| #Cnb81353 |
+			| Customer Name:-----------------|  Sibusiso |
+			| Car Model :--------------------|         B |
+			| Car No. :----------------------|         1 |
+			| Number of days :---------------|        30 |
+			| Your Rental Amount is :--------|      1800 |
+			| Caution Money :----------------|         0 |
+			| Advanced :---------------------|         0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|      1800 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require the customer's signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penalty fee will be applied
+			///////////////////////////////////////////////////////////
