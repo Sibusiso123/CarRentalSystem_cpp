@@ -14,6 +14,7 @@ public:
 	string carnumber;
 	string country;
 	string city;
+	int rate;
 };
 
 class rent : public customer {
@@ -118,6 +119,21 @@ public:
 
 	}
 
+	void UserRating() {
+		Sleep(2);
+		system("CLS");
+		cout << "How was the experience using our system? Please rate us from 1-10 :";
+		cin >> rate;
+		if (rate >= 1 && rate <= 10) {
+			cout << "\n\n\n\t\tThank You!!" << endl;
+		}
+		else {
+			cout << "Please select a number from 1-10." << endl;
+			Sleep(1000);
+			UserRating();
+		}
+	}
+
 	void showrent() {
 		ofstream receipt;
 		receipt.open("C:\\Users\\User\\Documents\\2021 Projects\\C++\\Car Rental System\\" + customername + ".txt");
@@ -180,6 +196,7 @@ int main() {
 	b.data();
 	b.calculate();
 	b.showrent();
+	b.UserRating();
 
 	return 0;
 }

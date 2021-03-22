@@ -5,15 +5,15 @@
 			| Customer Name:-----------------|Sibusiso Nkabinde |
 			| Country      :-----------------|South Africa |
 			| City:         -----------------|Johannesburg |
-			| Car Model :--------------------|         C |
-			| Car No. :----------------------|         1 |
-			| Number of days :---------------|        25 |
-			| Your Rental Amount is :--------|      1875 |
+			| Car Model :--------------------|         A |
+			| Car No. :----------------------|         2 |
+			| Number of days :---------------|        61 |
+			| Your Rental Amount is :--------|      3355 |
 			| Caution Money :----------------|         0 |
 			| Advanced :---------------------|         0 |
 			 ________________________________________________________
 
-			| Total Rental Amount is :-------|      1875 |
+			| Total Rental Amount is :-------|      3355 |
 			 ________________________________________________________
 			 # This is a computer generated invoce and it does not
 			 require the customer's signture #
